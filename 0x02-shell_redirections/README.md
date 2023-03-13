@@ -1,1 +1,1 @@
-displays content of etc password and etc host
+display last ten lines of etc password
