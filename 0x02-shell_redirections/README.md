@@ -1,1 +1,1 @@
-display first ten content of etc password
+display third line of iacta file
