@@ -1,1 +1,1 @@
-display last ten lines of etc password
+display first ten content of etc password
