@@ -1,1 +1,1 @@
-writes a script that writes into a file,overwrites content if file exists and creates a file if it does not exist
+script creates a file that is named after it contents at th ending of a new line
