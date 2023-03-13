@@ -1,1 +1,1 @@
-display third line of iacta file
+creates a file named Best School that contains the text Best Schol ending by a new line
