@@ -1,1 +1,1 @@
-script creates a file that is named after it contents at th ending of a new line
+creates a file named exactly Best School containing the text Best School ending by a new line
