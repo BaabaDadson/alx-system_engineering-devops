@@ -1,1 +1,1 @@
-creates a file named Best School that contains the text Best Schol ending by a new line
+ouputs the third line of the file and prints the last part of the file
